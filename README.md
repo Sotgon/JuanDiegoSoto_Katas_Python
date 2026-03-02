@@ -12,6 +12,7 @@ Los ejercicios abarcan desde operaciones básicas con strings y listas hasta imp
 ```
 proyecto-katas-python/
 ├── JuanDiegoSoto_katas_python_soluciones.py    # Soluciones completas de los 41 ejercicios
+├── JuanDiegoSoto_katas_python_solucionesv2.py  # Soluciones completas de los 41 ejercicios v2 corregido
 └── README.md                                   # Documentación del proyecto
 ```
 
